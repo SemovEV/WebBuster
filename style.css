@@ -33,6 +33,7 @@ img{
     height: 170px;
     cursor: pointer;
     z-index: 1;
+    background-size: contain;
 }
 h2{
     margin-top: 20px;
